@@ -11,3 +11,4 @@ https://github.com/mbannert/adminR-spring-2019
 https://github.com/swiss-adminR/201903_slides/blob/master/adminR_190314_STAAG.pdf
 
 ### Einsatz von R in der epidemiologischen Überwachung und Beurteilung von übertragbaren Krankheiten
+https://github.com/swiss-adminR/201903_slides/blob/master/PRS_190314_adminR_Damir_Perisa_BAG_EPI.pdf
